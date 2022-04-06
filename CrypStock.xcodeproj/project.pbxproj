@@ -16,6 +16,24 @@
 		2A48FC8127F70F1F00EEE8F6 /* CrypStockTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48FC8027F70F1F00EEE8F6 /* CrypStockTests.swift */; };
 		2A48FC8B27F70F1F00EEE8F6 /* CrypStockUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48FC8A27F70F1F00EEE8F6 /* CrypStockUITests.swift */; };
 		2A48FC8D27F70F1F00EEE8F6 /* CrypStockUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48FC8C27F70F1F00EEE8F6 /* CrypStockUITestsLaunchTests.swift */; };
+		2A48FC9E27F712D300EEE8F6 /* StockWatchlistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48FC9C27F712D300EEE8F6 /* StockWatchlistViewController.swift */; };
+		2A48FC9F27F712D300EEE8F6 /* StockWatchlistViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A48FC9D27F712D300EEE8F6 /* StockWatchlistViewController.xib */; };
+		2A48FCA227F712ED00EEE8F6 /* StockPortfolioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48FCA027F712ED00EEE8F6 /* StockPortfolioViewController.swift */; };
+		2A48FCA327F712ED00EEE8F6 /* StockPortfolioViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A48FCA127F712ED00EEE8F6 /* StockPortfolioViewController.xib */; };
+		2A48FCA827F7132400EEE8F6 /* CryptoWatchlistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48FCA627F7132400EEE8F6 /* CryptoWatchlistViewController.swift */; };
+		2A48FCA927F7132400EEE8F6 /* CryptoWatchlistViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A48FCA727F7132400EEE8F6 /* CryptoWatchlistViewController.xib */; };
+		2A48FCAC27F7133900EEE8F6 /* CryptoPortfolioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48FCAA27F7133900EEE8F6 /* CryptoPortfolioViewController.swift */; };
+		2A48FCAD27F7133900EEE8F6 /* CryptoPortfolioViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A48FCAB27F7133900EEE8F6 /* CryptoPortfolioViewController.xib */; };
+		2A48FCB027F7188E00EEE8F6 /* YourAssetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48FCAE27F7188D00EEE8F6 /* YourAssetViewController.swift */; };
+		2A48FCB127F7188E00EEE8F6 /* YourAssetViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A48FCAF27F7188D00EEE8F6 /* YourAssetViewController.xib */; };
+		2AD69D9127FAAEF0009FD8B4 /* watchlistTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD69D8F27FAAEF0009FD8B4 /* watchlistTableViewCell.swift */; };
+		2AD69D9227FAAEF0009FD8B4 /* watchlistTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2AD69D9027FAAEF0009FD8B4 /* watchlistTableViewCell.xib */; };
+		2AD69D9927FABCE1009FD8B4 /* CryptoWatchlistTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD69D9727FABCE1009FD8B4 /* CryptoWatchlistTableViewCell.swift */; };
+		2AD69D9A27FABCE1009FD8B4 /* CryptoWatchlistTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2AD69D9827FABCE1009FD8B4 /* CryptoWatchlistTableViewCell.xib */; };
+		2AD69D9D27FAD4B9009FD8B4 /* CryptoInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD69D9B27FAD4B9009FD8B4 /* CryptoInfoViewController.swift */; };
+		2AD69D9E27FAD4B9009FD8B4 /* CryptoInfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2AD69D9C27FAD4B9009FD8B4 /* CryptoInfoViewController.xib */; };
+		2AD69DA227FAEF56009FD8B4 /* IndicesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD69DA027FAEF56009FD8B4 /* IndicesCollectionViewCell.swift */; };
+		2AD69DA327FAEF56009FD8B4 /* IndicesCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2AD69DA127FAEF56009FD8B4 /* IndicesCollectionViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +67,24 @@
 		2A48FC8627F70F1F00EEE8F6 /* CrypStockUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CrypStockUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A48FC8A27F70F1F00EEE8F6 /* CrypStockUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrypStockUITests.swift; sourceTree = "<group>"; };
 		2A48FC8C27F70F1F00EEE8F6 /* CrypStockUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrypStockUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2A48FC9C27F712D300EEE8F6 /* StockWatchlistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockWatchlistViewController.swift; sourceTree = "<group>"; };
+		2A48FC9D27F712D300EEE8F6 /* StockWatchlistViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StockWatchlistViewController.xib; sourceTree = "<group>"; };
+		2A48FCA027F712ED00EEE8F6 /* StockPortfolioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockPortfolioViewController.swift; sourceTree = "<group>"; };
+		2A48FCA127F712ED00EEE8F6 /* StockPortfolioViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StockPortfolioViewController.xib; sourceTree = "<group>"; };
+		2A48FCA627F7132400EEE8F6 /* CryptoWatchlistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoWatchlistViewController.swift; sourceTree = "<group>"; };
+		2A48FCA727F7132400EEE8F6 /* CryptoWatchlistViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CryptoWatchlistViewController.xib; sourceTree = "<group>"; };
+		2A48FCAA27F7133900EEE8F6 /* CryptoPortfolioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoPortfolioViewController.swift; sourceTree = "<group>"; };
+		2A48FCAB27F7133900EEE8F6 /* CryptoPortfolioViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CryptoPortfolioViewController.xib; sourceTree = "<group>"; };
+		2A48FCAE27F7188D00EEE8F6 /* YourAssetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YourAssetViewController.swift; sourceTree = "<group>"; };
+		2A48FCAF27F7188D00EEE8F6 /* YourAssetViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = YourAssetViewController.xib; sourceTree = "<group>"; };
+		2AD69D8F27FAAEF0009FD8B4 /* watchlistTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = watchlistTableViewCell.swift; sourceTree = "<group>"; };
+		2AD69D9027FAAEF0009FD8B4 /* watchlistTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = watchlistTableViewCell.xib; sourceTree = "<group>"; };
+		2AD69D9727FABCE1009FD8B4 /* CryptoWatchlistTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoWatchlistTableViewCell.swift; sourceTree = "<group>"; };
+		2AD69D9827FABCE1009FD8B4 /* CryptoWatchlistTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CryptoWatchlistTableViewCell.xib; sourceTree = "<group>"; };
+		2AD69D9B27FAD4B9009FD8B4 /* CryptoInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoInfoViewController.swift; sourceTree = "<group>"; };
+		2AD69D9C27FAD4B9009FD8B4 /* CryptoInfoViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CryptoInfoViewController.xib; sourceTree = "<group>"; };
+		2AD69DA027FAEF56009FD8B4 /* IndicesCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndicesCollectionViewCell.swift; sourceTree = "<group>"; };
+		2AD69DA127FAEF56009FD8B4 /* IndicesCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = IndicesCollectionViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +135,7 @@
 		2A48FC6827F70F1E00EEE8F6 /* CrypStock */ = {
 			isa = PBXGroup;
 			children = (
+				2A48FC9927F7120800EEE8F6 /* Views */,
 				2A48FC6927F70F1E00EEE8F6 /* AppDelegate.swift */,
 				2A48FC6B27F70F1E00EEE8F6 /* SceneDelegate.swift */,
 				2A48FC6D27F70F1E00EEE8F6 /* ViewController.swift */,
@@ -125,6 +162,55 @@
 				2A48FC8C27F70F1F00EEE8F6 /* CrypStockUITestsLaunchTests.swift */,
 			);
 			path = CrypStockUITests;
+			sourceTree = "<group>";
+		};
+		2A48FC9927F7120800EEE8F6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2AD69D9F27FAED68009FD8B4 /* StockPortfolio */,
+				2AD69D9327FABC7E009FD8B4 /* CryptoWatchlist */,
+				2AD69D8E27FAAC41009FD8B4 /* StockWatchlist */,
+				2A48FCAA27F7133900EEE8F6 /* CryptoPortfolioViewController.swift */,
+				2A48FCAB27F7133900EEE8F6 /* CryptoPortfolioViewController.xib */,
+				2A48FCAE27F7188D00EEE8F6 /* YourAssetViewController.swift */,
+				2A48FCAF27F7188D00EEE8F6 /* YourAssetViewController.xib */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		2AD69D8E27FAAC41009FD8B4 /* StockWatchlist */ = {
+			isa = PBXGroup;
+			children = (
+				2A48FC9C27F712D300EEE8F6 /* StockWatchlistViewController.swift */,
+				2A48FC9D27F712D300EEE8F6 /* StockWatchlistViewController.xib */,
+				2AD69D8F27FAAEF0009FD8B4 /* watchlistTableViewCell.swift */,
+				2AD69D9027FAAEF0009FD8B4 /* watchlistTableViewCell.xib */,
+			);
+			path = StockWatchlist;
+			sourceTree = "<group>";
+		};
+		2AD69D9327FABC7E009FD8B4 /* CryptoWatchlist */ = {
+			isa = PBXGroup;
+			children = (
+				2A48FCA627F7132400EEE8F6 /* CryptoWatchlistViewController.swift */,
+				2A48FCA727F7132400EEE8F6 /* CryptoWatchlistViewController.xib */,
+				2AD69D9727FABCE1009FD8B4 /* CryptoWatchlistTableViewCell.swift */,
+				2AD69D9827FABCE1009FD8B4 /* CryptoWatchlistTableViewCell.xib */,
+				2AD69D9B27FAD4B9009FD8B4 /* CryptoInfoViewController.swift */,
+				2AD69D9C27FAD4B9009FD8B4 /* CryptoInfoViewController.xib */,
+			);
+			path = CryptoWatchlist;
+			sourceTree = "<group>";
+		};
+		2AD69D9F27FAED68009FD8B4 /* StockPortfolio */ = {
+			isa = PBXGroup;
+			children = (
+				2A48FCA027F712ED00EEE8F6 /* StockPortfolioViewController.swift */,
+				2A48FCA127F712ED00EEE8F6 /* StockPortfolioViewController.xib */,
+				2AD69DA027FAEF56009FD8B4 /* IndicesCollectionViewCell.swift */,
+				2AD69DA127FAEF56009FD8B4 /* IndicesCollectionViewCell.xib */,
+			);
+			path = StockPortfolio;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,8 +317,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2AD69D9A27FABCE1009FD8B4 /* CryptoWatchlistTableViewCell.xib in Resources */,
+				2AD69D9E27FAD4B9009FD8B4 /* CryptoInfoViewController.xib in Resources */,
+				2A48FCA327F712ED00EEE8F6 /* StockPortfolioViewController.xib in Resources */,
+				2A48FCA927F7132400EEE8F6 /* CryptoWatchlistViewController.xib in Resources */,
+				2AD69DA327FAEF56009FD8B4 /* IndicesCollectionViewCell.xib in Resources */,
+				2A48FCB127F7188E00EEE8F6 /* YourAssetViewController.xib in Resources */,
 				2A48FC7627F70F1F00EEE8F6 /* LaunchScreen.storyboard in Resources */,
+				2AD69D9227FAAEF0009FD8B4 /* watchlistTableViewCell.xib in Resources */,
 				2A48FC7327F70F1F00EEE8F6 /* Assets.xcassets in Resources */,
+				2A48FCAD27F7133900EEE8F6 /* CryptoPortfolioViewController.xib in Resources */,
+				2A48FC9F27F712D300EEE8F6 /* StockWatchlistViewController.xib in Resources */,
 				2A48FC7127F70F1E00EEE8F6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -260,7 +355,16 @@
 			files = (
 				2A48FC6E27F70F1E00EEE8F6 /* ViewController.swift in Sources */,
 				2A48FC6A27F70F1E00EEE8F6 /* AppDelegate.swift in Sources */,
+				2AD69D9127FAAEF0009FD8B4 /* watchlistTableViewCell.swift in Sources */,
+				2A48FCAC27F7133900EEE8F6 /* CryptoPortfolioViewController.swift in Sources */,
+				2AD69D9D27FAD4B9009FD8B4 /* CryptoInfoViewController.swift in Sources */,
+				2AD69D9927FABCE1009FD8B4 /* CryptoWatchlistTableViewCell.swift in Sources */,
 				2A48FC6C27F70F1E00EEE8F6 /* SceneDelegate.swift in Sources */,
+				2A48FCA827F7132400EEE8F6 /* CryptoWatchlistViewController.swift in Sources */,
+				2AD69DA227FAEF56009FD8B4 /* IndicesCollectionViewCell.swift in Sources */,
+				2A48FCA227F712ED00EEE8F6 /* StockPortfolioViewController.swift in Sources */,
+				2A48FCB027F7188E00EEE8F6 /* YourAssetViewController.swift in Sources */,
+				2A48FC9E27F712D300EEE8F6 /* StockWatchlistViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
